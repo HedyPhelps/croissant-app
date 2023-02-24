@@ -1,0 +1,18 @@
+body {
+  background: rgb(255, 249, 199);
+}
+
+h1 {
+  text-align: center;
+  color: rgb(61, 181, 255);
+}
+p {
+  text-align: center;
+  font-size: 22px;
+}
+
+img {
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
+}
